@@ -1,0 +1,152 @@
+{
+      "eastconf": [
+        {"id": 1, "team": "Celtics", "w": 64, "l": 18, "pct": 78, "gb": 0, "conf": "41-11", "home": "37-4", "away": "27-14", "L10": "7-3", "Strk": "W2"},
+        {"id": 2, "team": "Bucks", "w": 58, "l": 24, "pct": 70, "gb": 6, "conf": "35-17", "home": "30-11", "away": "28-13", "L10": "8-2", "Strk": "W4"},
+        {"id": 3, "team": "76ers", "w": 55, "l": 27, "pct": 67, "gb": 9, "conf": "32-20", "home": "29-12", "away": "26-15", "L10": "6-4", "Strk": "L1"},
+        {"id": 4, "team": "Heat", "w": 53, "l": 29, "pct": 64, "gb": 11, "conf": "30-22", "home": "28-13", "away": "25-16", "L10": "5-5", "Strk": "W1"},
+        {"id": 5, "team": "Pacers", "w": 48, "l": 34, "pct": 58, "gb": 16, "conf": "28-24", "home": "26-15", "away": "22-19", "L10": "7-3", "Strk": "W2"},
+        {"id": 6, "team": "Raptors", "w": 47, "l": 35, "pct": 57, "gb": 17, "conf": "27-25", "home": "25-16", "away": "22-19", "L10": "6-4", "Strk": "L2"},
+        {"id": 7, "team": "Bulls", "w": 45, "l": 37, "pct": 54, "gb": 19, "conf": "26-26", "home": "24-17", "away": "21-20", "L10": "4-6", "Strk": "L1"},
+        {"id": 8, "team": "Hawks", "w": 42, "l": 40, "pct": 51, "gb": 22, "conf": "24-28", "home": "23-18", "away": "19-22", "L10": "6-4", "Strk": "W3"},
+        {"id": 9, "team": "Knicks", "w": 40, "l": 42, "pct": 48, "gb": 24, "conf": "23-29", "home": "21-20", "away": "19-22", "L10": "5-5", "Strk": "L1"},
+        {"id": 10, "team": "Nets", "w": 38, "l": 44, "pct": 46, "gb": 26, "conf": "22-30", "home": "20-21", "away": "18-23", "L10": "4-6", "Strk": "W1"},
+        {"id": 11, "team": "Magic", "w": 36, "l": 46, "pct": 43, "gb": 28, "conf": "21-31", "home": "19-22", "away": "17-24", "L10": "3-7", "Strk": "L2"},
+        {"id": 12, "team": "Hornets", "w": 34, "l": 48, "pct": 41, "gb": 30, "conf": "20-32", "home": "18-23", "away": "16-25", "L10": "2-8", "Strk": "L3"},
+        {"id": 13, "team": "Wizards", "w": 30, "l": 52, "pct": 36, "gb": 34, "conf": "18-34", "home": "16-25", "away": "14-27", "L10": "1-9", "Strk": "L4"},
+        {"id": 14, "team": "Pistons", "w": 28, "l": 54, "pct": 34, "gb": 36, "conf": "16-35", "home": "15-26", "away": "13-28", "L10": "2-8", "Strk": "L5"},
+        {"id": 15, "team": "Cavaliers", "w": 25, "l": 57, "pct": 80, "gb": 39, "conf": "14-37", "home": "13-28", "away": "12-29", "L10": "1-9", "Strk": "L6"},
+
+        {"id": 16, "team": "Nuggets", "w": 57, "l": 25, "pct": 73, "gb": 0, "conf": "38-14", "home": "34-7", "away": "26-15", "L10": "8-2", "Strk": "W5"},
+        {"id": 17, "team": "Suns", "w": 49, "l": 33, "pct": 68, "gb": 4, "conf": "34-18", "home": "31-10", "away": "25-16", "L10": "7-3", "Strk": "W3"},
+        {"id": 18, "team": "Warriors", "w": 46, "l": 36, "pct": 63, "gb": 8, "conf": "33-19", "home": "28-13", "away": "24-17", "L10": "6-4", "Strk": "L1"},
+        {"id": 19, "team": "Clippers", "w": 51, "l": 31, "pct": 62, "gb": 9, "conf": "32-20", "home": "27-14", "away": "24-17", "L10": "7-3", "Strk": "W2"},
+        {"id": 20, "team": "Mavericks", "w": 50, "l": 32, "pct": 59, "gb": 11, "conf": "30-22", "home": "26-15", "away": "23-18", "L10": "5-5", "Strk": "W1"},
+        {"id": 21, "team": "Grizzlies", "w": 27, "l": 55, "pct": 58, "gb": 12, "conf": "29-23", "home": "25-16", "away": "23-18", "L10": "6-4", "Strk": "W2"},
+        {"id": 22, "team": "Trail Blazers", "w": 21, "l": 61, "pct": 54, "gb": 15, "conf": "27-25", "home": "24-17", "away": "21-20", "L10": "4-6", "Strk": "L1"},
+        {"id": 23, "team": "Jazz", "w": 31, "l": 51, "pct": 51, "gb": 18, "conf": "24-28", "home": "23-18", "away": "19-22", "L10": "6-4", "Strk": "W3"},
+        {"id": 24, "team": "Pelicans", "w": 49, "l": 33, "pct": 48, "gb": 20, "conf": "23-29", "home": "21-20", "away": "19-22", "L10": "5-5", "Strk": "L1"},
+        {"id": 25, "team": "Thunder", "w": 57, "l": 25, "pct": 46, "gb": 22, "conf": "22-30", "home": "20-21", "away": "18-23", "L10": "4-6", "Strk": "W1"},
+        {"id": 26, "team": "Spurs", "w": 22, "l": 60, "pct": 43, "gb": 24, "conf": "21-31", "home": "19-22", "away": "17-24", "L10": "3-7", "Strk": "L2"},
+        {"id": 27, "team": "Kings", "w": 46, "l": 36, "pct": 52, "gb": 26, "conf": "20-32", "home": "18-23", "away": "16-25", "L10": "2-8", "Strk": "L3"},
+        {"id": 28, "team": "Rockets", "w": 41, "l": 41, "pct": 36, "gb": 30, "conf": "18-34", "home": "16-25", "away": "14-27", "L10": "1-9", "Strk": "L4"},
+        {"id": 29, "team": "Timberwolves", "w": 56, "l": 26, "pct": 34, "gb": 32, "conf": "16-35", "home": "15-26", "away": "13-28", "L10": "2-8", "Strk": "L5"},
+        {"id": 30, "team": "Lakers", "w": 47, "l": 35, "pct": 30, "gb": 35, "conf": "14-37", "home": "13-28", "away": "12-29", "L10": "1-9", "Strk": "L6"}
+    ],
+
+
+    "news": [
+        {
+          "id": 0,
+          "headline": "Luka Doncic remains hometown hero for his Slovenian grade school",
+          "abstract": "20-year NBA veteran Jamal Crawford makes his NBA Finals prediction and answers 20 questions on Dallas, Boston and more.",
+          "body": "Indiana Pacers guard Tyrese Haliburton will remain sidelined with a left hamstring injury for Game 4 of the Eastern Conference Finals against the Boston Celtics (8 ET, ESPN), the team announced pregame. The Pacers trail the Celtics 3-0 in the series before a must-win matchup in Indianapolis. Haliburton missed Game 3 with the injury, which he suffered during a Game 2 loss in Boston. The Pacers leaned on Pascal Siakam, Andrew Nembhard, T.J. McConnell and their depth in Game 3, but it wasn’t enough to hold off Boston’s rally to win. With Haliburton out for Game 4, Indiana will need a next-man-up mentality to keep its season alive.",
+          "author": "From NBA.com Staff.",
+          "section": "Sport",
+          "date": "May 27, 2024 6:34 PM",
+          "ar-icle_uri": "https://www.nba.com/news/pacers-tyrese-haliburton-out-game-4-east-finals",
+          "pfd_uri": "https://www.nba.com/news/pacers-tyrese-haliburton-out-game-4-east-finals"
+        },
+        {
+          "id": 2,
+          "headline": "Kareem Abdul-Jabbar, Magic Johnson and more pay tribute to Bill Walton",
+          "abstract": "NBA legends, current players and members of the basketball community react to the Hall of Famer's death on Monday.",
+          "body": "Hall of Fame center Bill Walton, a two-time champion at UCLA and in the NBA, a former No.1 overall pick, and one of the biggest personalities of the game, died on May 27 after a prolonged battle with cancer. He was 71 years old. Walton played 10 seasons in the NBA with the Portland Trail Blazers, LA Clippers and the Boston Celtics, averaging 13.3 points, 10.5 rebounds and 3.4 assists. He earned Finals MVP after leading the Blazers to the 1977 championship and won another title with the Celtics in 1986. A two-time All-Star, Walton won the league’s Most Valuable Player award in 1978. Walton retired from the NBA after the 1987-88 season. He turned to broadcasting where he became one of the most entertaining and eccentric color commentators for NCAA and NBA telecasts. A beloved member of the NBA family, legends, current players and other members of the basketball community took to social media to pay tribute to Walton’s career and his many off-the-court contributions.",
+          "author": "From Social Media Reports",
+          "section": "Sport",
+          "date": "May 27, 2024 6:17 PM",
+          "article_uri": "https://www.nba.com/news/nba-family-pays-tribute-to-bill-walton",
+          "pfd_uri": "https://www.nba.com/news/nba-family-pays-tribute-to-bill-walton"
+        },
+        {
+          "id": 4,
+          "headline": "Proactive attitude-oriented portal",
+          "abstract": "Together this national fund sign. Write one program.\nForget news quickly report focus. Production she finish listen return hold hot politics. Natural ten one these.",
+          "body": "West without thought most. Ht can financial. Government beat and five probably provide music. Take similar identify man never away. Perhaps traditional visit itself start election. Develop popular personal yeah job.\n\nWait which add letter apply decade. Decision value north unit. Force high answer everybody reduce. Whatever fall general ask fall. Level budget finish reach low structure. Ahead Congress think despite. Purpose role around wonder stop. Month skin apply easy store against. Send memory director minute simply.",
+          "author": "Brian Smith",
+          "section": "Sport",
+          "date": "2020-01-05T22:34:34",
+          "article_uri": "http:\/\/fakenews.squirro.com\/article\/html\/sport\/4.html",
+          "pfd_uri": "http:\/\/fakenews.squirro.com\/article\/pdf\/sport\/4.pdf"
+        },
+        {
+          "id": 5,
+          "headline": "Ergonomic content-based initiative",
+          "abstract": "Church have popular smile interesting environmental right. Rather miss mission.\nDifferent leader team year receive whether. Real other every think physical itself create.",
+          "body": "Tr w mean. Rock performance value discover. But able assume determine. Son force buy boy computer shoulder century foreign.\n\nTop president five bring. Avoid dream chance order each upon middle. About blood case left job. Some rather coach star. Believe big hear hospital job pull during change. Three half play enough one kitchen. So throw less tend stay agreement top. Fish look add season. Tax dinner laugh far charge. His charge explain he. Idea cup probably less. South fly what seven. Including rock seven not never. Attention reality clear PM write generation age. Win allow during like cup safe.",
+          "author": "Jillian Mcpherson",
+          "section": "Sport",
+          "date": "2020-01-06T14:12:12",
+          "article_uri": "http:\/\/fakenews.squirro.com\/article\/html\/sport\/5.html",
+          "pfd_uri": "http:\/\/fakenews.squirro.com\/article\/pdf\/sport\/5.pdf"
+        },
+        {
+          "id": 11,
+          "headline": "Versatile explicit orchestration",
+          "abstract": "Drug think assume Mr. Off crime participant popular treatment.\nPlant around purpose step remember stand toward. Tv weight go.",
+          "body": "Hth discuss treaire teach well. Fund law ask three consider east. Night hospital final pass. Fire parent past minute man it. Either land single deal put. Democrat of when anything late. Strategy either analysis some. Development daughter build job begin call thank. Opportunity institution power finally. Item affect professional mouth require imagine score.",
+          "author": "Jon Oliver",
+          "section": "Sport",
+          "date": "2020-01-12T14:41:41",
+          "article_uri": "http:\/\/fakenews.squirro.com\/article\/html\/sport\/11.html",
+          "pfd_uri": "http:\/\/fakenews.squirro.com\/article\/pdf\/sport\/11.pdf"
+        },
+        {
+          "id": 15,
+          "headline": "Reverse-engineered transitional help-desk",
+          "abstract": "Half poor outside Democrat long church lot research. Fear such own personal during none bar. Series check also risk that. Me own huge politics relationship first once green.",
+          "body": "Rvent enjoy seem. It research kitchen beyond those. Poor star over to tend back rend head public myself figure. Morning seat shake stock should among west. Film today present focus region learn. Data trial evidence Mr require city vote. Beat early step fine hot student.",
+          "author": "Robert Coffey",
+          "section": "Sport",
+          "date": "2020-01-16T18:19:19",
+          "article_uri": "http:\/\/fakenews.squirro.com\/article\/html\/sport\/15.html",
+          "pfd_uri": "http:\/\/fakenews.squirro.com\/article\/pdf\/sport\/15.pdf"
+        },
+        {
+          "id": 17,
+          "headline": "Seamless demand-driven function",
+          "abstract": "Call clear cut law better spend future practice. Decade difference up third treat risk forget. Down open soldier up reveal worry chance.\nCover including news. Good as list charge threat.",
+          "body": "Available show investment dream somebody between reveal. Under take. Determine art college explain remember administration. They structure bed answer such I. Population for report reflect past year let must. Fill close spend month. Fine form voice.",
+          "author": "Brian Smith",
+          "section": "Sport",
+          "date": "2020-01-18T05:33:33",
+          "article_uri": "http:\/\/fakenews.squirro.com\/article\/html\/sport\/17.html",
+          "pfd_uri": "http:\/\/fakenews.squirro.com\/article\/pdf\/sport\/17.pdf"
+        },
+        {
+          "id": 18,
+          "headline": "Enterprise-wide executive success",
+          "abstract": "Tax positive candidate while early shoulder. Against father person to. Particular father adult ball too away once charge.",
+          "body": "Say flyss key firm management office. No these better white any special relate. Star son everything service.\n\nMeet statement memory fine story wrong box. Coach reveal network present work themselves. Again door kind check dinner. Remain less carry parent head later soldier. Perform modern daughter arrive expert order. Here boy life yard enjoy. Project between quality operation.\n\nPersonal need design decide investment ability beat charge. Beautiful fast decide seat appear. Moment shake around popular better staff. Many nice girl world. Name bad less window Mrs. Note address drive whatever Republican also.",
+          "author": "Cynthia White",
+          "section": "Sport",
+          "date": "2020-01-19T01:05:05",
+          "article_uri": "http:\/\/fakenews.squirro.com\/article\/html\/sport\/18.html",
+          "pfd_uri": "http:\/\/fakenews.squirro.com\/article\/pdf\/sport\/18.pdf"
+        },
+        {
+          "id": 24,
+          "headline": "Multi-tiered grid-enabled core",
+          "abstract": "Late politics lay owner real candidate body. Left talk every room. Ahead citizen marriage daughter term research agency list.",
+          "body": "Anol. Today receive affect eart out whether reach.",
+          "author": "Shawn Lee",
+          "section": "Sport",
+          "date": "2020-01-25T01:49:49",
+          "article_uri": "http:\/\/fakenews.squirro.com\/article\/html\/sport\/24.html",
+          "pfd_uri": "http:\/\/fakenews.squirro.com\/article\/pdf\/sport\/24.pdf"
+        },
+        {
+          "id": 30,
+          "headline": "Programmable static forecast",
+          "abstract": "Author produce discussion fill play. Throughout as full wait difference plan cultural. Step early inside east area relate them.",
+          "body": "Beat very t guesove those thousand bill. Sure point month just toward inside. Me really start. President Democrat power individual last describe glass. Wind yeah college card. Girl life mouth interest. Laugh gun arm animal rise network already. Third boy force act expect.",
+          "author": "John Perez",
+          "section": "Sport",
+          "date": "2020-01-31T04:03:03",
+          "article_uri": "http:\/\/fakenews.squirro.com\/article\/html\/sport\/30.html",
+          "pfd_uri": "http:\/\/fakenews.squirro.com\/article\/pdf\/sport\/30.pdf"
+        }
+      ],
+      "count": 10,
+      "next": 30,
+      "eof": false
+}
