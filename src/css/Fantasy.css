@@ -1,0 +1,195 @@
+/* src/Fantasy.css */
+
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Full viewport height to center vertically */
+    flex-direction: column; /* Ensure items are stacked vertically */
+}
+
+.player-slot {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 320px;
+    padding: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    background: #EF665B;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px -3px #111;
+    margin-bottom: 10px; /* Space between slots */
+}
+
+.player-slot__icon {
+    width: 20px;
+    height: 20px;
+    transform: translateY(-2px);
+    margin-right: 8px;
+}
+
+.player-slot__icon path {
+    fill: #fff;
+}
+
+.player-slot__title {
+    font-weight: 500;
+    font-size: 14px;
+    color: #fff;
+}
+
+.player-slot__add {
+    margin-left: auto;
+}
+
+.button-fantasy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 12px;
+    gap: 4px;
+    height: 32px;
+    width: 81px;
+    border: none;
+    background: #1b1b1cd0;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.label {
+    line-height: 22px;
+    font-size: 17px;
+    color: #DE8A2A;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
+.button:hover {
+    background: #1b1b1cea;
+}
+
+.button:hover .svg-icon {
+    animation: rotate 1.3s linear infinite;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(10deg);
+    }
+
+    50% {
+        transform: rotate(0deg);
+    }
+
+    75% {
+        transform: rotate(-10deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+/* Popup.css */
+
+/* Styles for popup overlay */
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Styles for popup content */
+.popup-content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    width: 80%;
+    max-height: 80%;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+/* Styles for search player input */
+.search-player {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* Styles for player list container */
+.player-list {
+    flex: 1;
+    overflow-y: auto;
+}
+
+/* Styles for table container */
+.table-container {
+    overflow-x: auto;
+    max-height: 50vh; /* Ensure the table does not overflow vertically */
+}
+
+/* Styles for close button */
+.close-button {
+    align-self: flex-end;
+    margin-top: 10px;
+    background-color: #de8a2a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Additional styling for loader (optional) */
+.center-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.loader-spanne-20 {
+    display: flex;
+    gap: 5px;
+}
+
+.loader-spanne-20 span {
+    width: 10px;
+    height: 10px;
+    background-color: #de8a2a;
+    border-radius: 50%;
+    animation: loader-animation 1.2s infinite;
+}
+
+@keyframes loader-animation {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.5);
+    }
+}
+
+/* Player name as button */
+
+.button-player-name {
+    min-width: 150px; /* Adjust the minimum width as needed */
+    padding: 10px; /* Add padding for better appearance */
+    text-align: center; /* Center align the text */
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow: hidden; /* Hide overflow text */
+    text-overflow: ellipsis; /* Add ellipsis for overflow text */
+}
+

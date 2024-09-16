@@ -1,0 +1,96 @@
+/* Navigation.css */
+.header {
+  background-color: #333; /* Dark background for the header */
+  color: white; /* Light text color for contrast */
+  padding: 10px 20px; /* Padding for some breathing room */
+  text-align: center; /* Center-align the navigation items */
+  border-radius: 25px;
+}
+
+.nav-list {
+  list-style-type: none; /* Remove default list styling */
+  margin: 0;
+  padding: 0;
+  display: flex; /* Align items in a row */
+  align-items: center; /* Center items vertically */
+}
+
+.nav-center {
+  display: flex; /* Center-align the main navigation items */
+  justify-content: center; /* Center-align the items within this container */
+  flex: 1; /* Allow this container to take up available space */
+}
+
+.nav-item {
+  margin-right: 20px; /* Space between items */
+}
+
+.nav-item:last-child {
+  margin-right: 0; /* No margin on the last item */
+}
+
+.nav-link {
+  color: white; /* Light color for the links */
+  text-decoration: none; /* Remove underline from links */
+  font-size: 1.2em; /* Increase font size for better readability */
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #cccccc; /* Light grey for hover/focus */
+}
+
+.nav-select {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.nav-item.ml-auto {
+  margin-left: auto; /* Push this item to the far right */
+}
+
+/* User Button Style */
+.share-button {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 120px;
+  height: 40px;
+  position: relative;
+  border: 1px solid #81aca0;
+  background-color: #209978;
+  overflow: hidden;
+  cursor: pointer;
+  color: white;
+}
+
+.button__text {
+  width: 80px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button__icon {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #17795e;
+  position: absolute;
+  right: 0;
+  transition: all 0.3s;
+}
+
+.button__icon svg {
+  width: 18px;
+}
+
+.share-button:hover .button__icon {
+  width: 100%;
+}
